@@ -1,7 +1,7 @@
 import serial
 import time
 import re
-from escpos.printer import Usb
+#from escpos.printer import Usb
 
 
 # 定义虚拟串口和实际打印机串口
